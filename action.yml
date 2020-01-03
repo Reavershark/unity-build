@@ -1,0 +1,9 @@
+name: 'Unity'
+description: 'Build unity projects'
+author: Jonas Meeuws <jonas.meeuws@gmail.com>
+outputs:
+  buildPath:
+    description: 'Path of the directory containing the finished build'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
