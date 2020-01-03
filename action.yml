@@ -1,4 +1,4 @@
-name: 'Unity'
+name: 'Unity project builder'
 description: 'Build unity projects'
 author: Jonas Meeuws <jonas.meeuws@gmail.com>
 outputs:
